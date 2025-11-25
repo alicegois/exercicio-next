@@ -133,4 +133,16 @@ h1 {
   margin-bottom: 2em;
 }
 
-/*# sourceMappingURL=%5Broot-of-the-server%5D__af6e68da._.css.map*/
+/* [project]/components/footer/Footer.module.css [app-client] (css) */
+.Footer-module__NVhknq__footer {
+  color: #fff;
+  text-align: center;
+  background-color: #333;
+  width: 100%;
+  padding: 15px 0;
+  font-size: .9em;
+  position: fixed;
+  bottom: 0;
+}
+
+/*# sourceMappingURL=%5Broot-of-the-server%5D__e603027f._.css.map*/

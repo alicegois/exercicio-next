@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/maria/Downloads/exercicio-next/my-app/app/page.js"],"sourcesContent":["'use client';\n\nimport Image from \"next/image\";\n\nexport default function Home() {\n  return ( \n        <div className=\"container\">\n          <h1 >\n           Bem-vindo à  Biblioteca do IFPB!\n          </h1>         \n          <Image\n          src=\"/ifpb-logo.png\"\n          alt=\"IFPB Logo\"\n          width={200}\n          height={300}\n          />\n          <p>\n            Explore nossa coleção de livros, artigos e recursco digitais.\n          </p>\n        </div>\n  );\n}\n"],"names":[],"mappings":";;;;;AAEA;AAFA;;;AAIe,SAAS;IACtB,qBACM,6LAAC;QAAI,WAAU;;0BACb,6LAAC;0BAAI;;;;;;0BAGL,6LAAC,2IAAK;gBACN,KAAI;gBACJ,KAAI;gBACJ,OAAO;gBACP,QAAQ;;;;;;0BAER,6LAAC;0BAAE;;;;;;;;;;;;AAKb;KAjBwB"}}]
+}
